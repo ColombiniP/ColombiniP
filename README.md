@@ -3,22 +3,46 @@ Puxe uma cadeira e fique a vontade.
 
 Sou um dev em desenvolvimento 🥁
 
-Estou migrando de área aos 30's, atuei por + de 10 anos em times comerciais, primeiro com sales até chegar em gestão, mas sempre tive um pezinho na tecnologia e desenvolvimento, agora decidir vir em busca desse sonho!</br><strong>Ai vamos nós!!
+🌎 De Minas Gerais, uai sô, vai um pão de queijo ai??!! 
+
+Estou fazendo transição de carreira após + de 10 anos em times comerciais, primeiro com sales até chegar em gestão, mas sempre tive um pezinho na tecnologia e desenvolvimento, agora decidir vir em busca desse sonho!</br><strong>Ai vamos nós!!
 </strong>😆<hr>
 
-- 👀 Tenho aprendido linguagens como: 
-<img style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30" />
-- 🌱 Barecharelando em Engenharia de Software na Descomplica, além de alguns cursos extras nas linguagens ...          
-- 📫 Dá uma conferida no meu <a href="https://www.linkedin.com/in/paschoal-colombini-77b395b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="80" height="25"></a> 
-- 🌎 De Minas Gerais, uai sô, vai um pão de queijo ai??!! 
-<hr>
+## Tenho aprendido tecnologias como: 
+<div style="display:flex; flex-direction:row; gap:12px; justfy-content:center; align-itens:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"  width="50" height="50"/>
+    <img style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+</div>
+
+## 🌱 Barecharelando 
+
+- Engenharia de Software na Descomplica
+- Analise e Desenvolvimento de sistemas na Universidade Vassouras
+- Além de alguns cursos extras nas linguagens ...          
+
+## Estatísticas
+
+<div style="margin:1rem">
+<a href="htts://github.com/ColombiniP">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColombiniP&hide=html,kotlin,hack,css&theme=chartreuse-dark&layout=compact&langs_count=10&hide_rank=true&hide_title=true" width="100%"/>           
+</a>
+<!-- 
 <div>
 <a href="htts://github.com/ColombiniP">
 <img height="220em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColombiniP&layout=compact&langs_count=7&theme=dracula"/>           
 </a>
+ -->
 </div>
 <div>
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=ColombiniP&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
+<div>
+<img height="223em" src="https://github-readme-stats.vercel.app/api?username=ColombiniP&show_icons=true&hide_rank=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" width="100%"/>
 </div>
 <!---![Snake animation](https://github.com/ColombiniP/ColombiniP/blob/output/github-contribution-grid-snake.svg)  --->
 <!---
