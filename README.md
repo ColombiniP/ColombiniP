@@ -6,7 +6,7 @@ Sou um dev em desenvolvimento 🥁
 🌎 De Minas Gerais, uai sô, vai um pão de queijo ai??!! 
 
 Estou fazendo transição de carreira após + de 10 anos em times comerciais, primeiro com sales até chegar em gestão, mas sempre tive um pezinho na tecnologia e desenvolvimento, agora decidir vir em busca desse sonho!</br><strong>Ai vamos nós!!
-</strong>😆<hr>
+</strong>😆
 
 ## Tenho aprendido tecnologias como: 
 <div style="display:flex; flex-direction:row; gap:12px; justfy-content:center; align-itens:center;">
@@ -24,6 +24,11 @@ Estou fazendo transição de carreira após + de 10 anos em times comerciais, pr
 - Engenharia de Software na Descomplica
 - Analise e Desenvolvimento de sistemas na Universidade Vassouras
 - Além de alguns cursos extras nas linguagens ...          
+
+## Meus contatos
+
+<a href="https://www.linkedin.com/in/paschoal-colombini-77b395b9/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="wa.me/5521967254242" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 ## Estatísticas
 
