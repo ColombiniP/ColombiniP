@@ -27,23 +27,25 @@ Estou fazendo transição de carreira após + de 10 anos em times comerciais, pr
 
 ## Estatísticas
 
-<div style="margin:1rem">
-<a href="htts://github.com/ColombiniP">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColombiniP&hide=html,kotlin,hack,css&theme=chartreuse-dark&layout=compact&langs_count=10&hide_rank=true&hide_title=true" width="100%"/>           
-</a>
-<!-- 
-<div>
-<a href="htts://github.com/ColombiniP">
-<img height="220em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColombiniP&layout=compact&langs_count=7&theme=dracula"/>           
-</a>
- -->
+<div style="display:flex; flex-direction: column;justify-content: center;align-items: center;">
+    <div>
+        <a href="htts://github.com/ColombiniP">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColombiniP&hide=html,kotlin,hack,css&theme=chartreuse-dark&layout=compact&langs_count=10&hide_rank=true&hide_title=true" width="65%"/>           
+        </a>
+        <!-- 
+        <div>
+        <a href="htts://github.com/ColombiniP">
+        <img height="220em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColombiniP&layout=compact&langs_count=7&theme=dracula"/>           
+        </a>
+         -->
+    </div>
+    <div>
+        <a href="htts://github.com/ColombiniP">
+        <img src="https://github-readme-stats.vercel.app/api?username=ColombiniP&show_icons=true&hide_rank=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" width="65%"/>
+        </a>
+    </div>
 </div>
-<div>
 
-</div>
-<div>
-<img height="223em" src="https://github-readme-stats.vercel.app/api?username=ColombiniP&show_icons=true&hide_rank=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" width="100%"/>
-</div>
 <!---![Snake animation](https://github.com/ColombiniP/ColombiniP/blob/output/github-contribution-grid-snake.svg)  --->
 <!---
 ColombiniP/ColombiniP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
