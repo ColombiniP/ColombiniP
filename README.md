@@ -46,7 +46,7 @@ Estou fazendo transição de carreira após + de 10 anos em times comerciais, pr
     </div>
     <div>
         <a href="htts://github.com/ColombiniP">
-        <img src="https://github-readme-stats.vercel.app/api?username=ColombiniP&show_icons=true&hide_rank=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" width="65%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ColombiniP&show_icons=true&hide_rank=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues&hide_title=true" width="65%"/>
         </a>
     </div>
 </div>
